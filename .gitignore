@@ -1,0 +1,7 @@
+tmp/
+.DS_Store
+*_old
+*_backup
+.Trumbs.db
+
+
